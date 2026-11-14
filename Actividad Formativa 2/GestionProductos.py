@@ -86,6 +86,7 @@ class Aplicacion:
     # Metodo para ejecutar el programa
     def ejecutar(self):
         while True:
+            # Menu de opciones
             print("\n===== GESTION DE PRODUCTOS =====")
             print("1. Registrar producto")
             print("2. Mostrar productos")
